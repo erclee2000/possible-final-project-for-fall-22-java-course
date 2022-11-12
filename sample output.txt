@@ -1,0 +1,66 @@
+PS C:\Users\erclee\Desktop\final-project> java HighLowGameFinal
+***************************************
+*   Welcome to the High Low Game!     *
+*   A card will be drawn randomly     *
+*   from a standard 52 card deck and  *
+*   you have to try to predict if     *
+*   the next card drawn at random     *
+*   will be higher or lower.          *
+*                                     *
+*   The card order (low to high):     *
+*   2 3 . . . 10 J Q K A              *
+*   and ties are broken by            *
+*   clubs, diamonds, hearts, spades   *
+*                                     *
+*   Enter 'h' for higher              *
+*   Enter 'l' for lower               *
+***************************************
+Drawing a card at random . . .
+ _______________
+|               |
+|  K of Spades  |
+|_______________|
+
+Will the next randomly drawn card be higher (h) or lower (l)?
+l
+Drawing a card at random . . . 
+ _______________
+|               |
+|  4 of Spades  |
+|_______________|
+
+You guessed right! Your score is *1.0*
+
+Will the next randomly drawn card be higher (h) or lower (l)?
+h
+Drawing a card at random . . . 
+ _______________
+|               |
+|  9 of Spades  |
+|_______________|
+
+You guessed right! Your score is *2.0*
+
+Will the next randomly drawn card be higher (h) or lower (l)?
+l
+Drawing a card at random . . . 
+ _______________
+|               |
+|  6 of Spades  |
+|_______________|
+
+You guessed right! Your score is *4.0*
+
+Will the next randomly drawn card be higher (h) or lower (l)?
+h
+Drawing a card at random . . . 
+ _______________
+|               |
+|  5 of Dimnds  |
+|_______________|
+
+Sorry, you guessed wrong. Game over.
+Your final score was *4.0*
+
+
+PS C:\Users\erclee\Desktop\final-project> 
